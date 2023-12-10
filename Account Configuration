@@ -1,0 +1,1 @@
+$ aws configure {This will help us in configuring AWSaccount through CLI}
