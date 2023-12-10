@@ -1,1 +1,3 @@
-$ aws configure {This will help us in configuring AWSaccount through CLI}
+$ aws configure {This will help us in configuring AWS account through CLI}
+$ aws configure --profile {This will help us in configure AWS account with profile name}
+  ex :- aws configure --profile amit
